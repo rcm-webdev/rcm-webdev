@@ -1,8 +1,6 @@
 
 ![Banner](https://github.com/rcm-webdev/rcm-webdev/raw/main/banner-2.webp)
 
-### A full-stack software engineer based in the PNW
-
 **`Digital Craftsman (Developer/Creator)`**
 
 I'm a full-stack software engineer and content creator, building my version of the digital world one line at a time. 
