@@ -1,5 +1,5 @@
 # 🏄‍♂️ Roberto Murillo
-### align="center">A full-stack software engineer based in the Spokane, WA area
+### A full-stack software engineer based in the Spokane, WA area
 
 **`Digital Craftsman (Developer/Creator)`**
 
