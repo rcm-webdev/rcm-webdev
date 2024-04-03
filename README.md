@@ -14,10 +14,10 @@ I'm a full-stack software engineer and content creator, building my version of t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rcmwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rcmwebdev" height="30" width="40" /></a>
+<a href="https://dev.to/rcmwebdev" target="blank"><img align="center" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--devto-light.svg" alt="rcmwebdev" height="30" width="40" /></a>
 <a href="https://twitter.com/rcmwdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rcmwdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/roberto-c-murillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto-c-murillo" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rcmwdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rcmwdev" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rcmwdev" target="blank"><img align="center" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/logos--hashnode-icon.svg" alt="@rcmwdev" height="30" width="40" /></a>
 </p>
 
 
