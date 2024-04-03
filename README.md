@@ -30,18 +30,18 @@ I'm a full-stack software engineer and content creator, building my version of t
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--expressjs-dark.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--react-dark.svg" />
 <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--nodejs-dark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--html.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--css.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--tailwindcss-dark.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--javascript.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--typescript.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--git.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--postman.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--linux-dark.svg" />
+<img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--astro.svg" />
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--nextjs-dark.svg" />
+<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--netlify-dark.svg" />
+
 <br />
 
 #
