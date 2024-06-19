@@ -10,7 +10,7 @@ I'm a full-stack software engineer and content creator, building my version of t
 
 - 🔭 I’m currently working on **PlantJoy**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
