@@ -38,6 +38,7 @@ I'm a full-stack software engineer and content creator, building my version of t
 <img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--astro.svg" />
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--nextjs-dark.svg" />
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--netlify-dark.svg" />
+<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--vercel.svg" />
 
 <br />
 
