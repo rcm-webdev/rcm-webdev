@@ -13,10 +13,10 @@ I'm a full-stack software engineer buidling exciting projects in my corner of th
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
 
-<a href='https://www.linkedin.com/in/roberto-c-murillo/' target=_blank> 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-c-murillo/)
  [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/rcmwdev)
+
+ <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
  
 
 </p>
