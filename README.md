@@ -14,9 +14,10 @@ I'm a full-stack software engineer buidling exciting projects in my corner of th
 <p align="left">
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-c-murillo/)
- [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/rcmwdev)
+ [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rcmwdev)
 
- <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+<a href="https://twitter.com" target="_blank">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+
  
 
 </p>
