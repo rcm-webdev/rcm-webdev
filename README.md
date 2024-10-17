@@ -2,11 +2,13 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm a full-stack software engineer and content creator. Welcome to my corner of the internet, where I am building my version of the digital world one line at a time. 
+I'm a full-stack software engineer and developer relations content creator. Welcome to my corner of the internet, where I am building my version of the digital world one line at a time. 
 
-- ⚒️ I’m currently building **backend for a client**
-- 📰 Reading the latest Hackerrank news
-- ⚡ I’m currently learning **Python**
+## What am I doing now? 
+- ⚒️ I’m building a **full stack web application for a client**
+- ⚡ I’m learning how to build a **online community**
+- 📰 I'm reading about **Deno.js**
+- 🤖 I'm interested in **generative ai**
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
