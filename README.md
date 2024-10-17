@@ -21,7 +21,7 @@ I'm a full-stack software engineer and content creator, building my version of t
 ---
 
 ### 🧰 Languages and Tools
-
+MongoDB 	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--mongodb.svg"/>
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--expressjs-dark.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/rcm-webdev/rcm-webdev/blob/main/skill-icons--react-dark.svg" />
