@@ -1,8 +1,8 @@
 ![Banner](https://github.com/rcm-webdev/rcm-webdev/raw/main/banner-2.webp)
 
-**`Digital Craftsman (Developer/Creator)`**
+**`Software Engineer`**
 
-I'm a full-stack software engineer buidling exciting projects in my corner of the internet.  
+I'm a full-stack software engineer with 3+ years of experience, currently architecting scalable solutions and mentoring teams while continuously expanding my expertise in emerging technologies.  
 
 ## Current Status: 
 - ⚒️ I’m building a **full stack web application for a client**
