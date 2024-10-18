@@ -1,8 +1,8 @@
 ![Banner](https://github.com/rcm-webdev/rcm-webdev/raw/main/banner-2.webp)
 
-**`Software Engineer`**
+**` Software Engineer`** **` Targeting JavaScript, TypeScript, and Node opportunities`**
 
-I'm a full-stack software engineer with 3+ years of experience, currently architecting scalable solutions and mentoring teams while continuously expanding my expertise in emerging technologies.  
+I am a full-stack software engineer specializing in architecting scalable solutions, mentoring teams, and exploring emerging technologies.  
 
 ## Current Status: 
 - ⚒️ I’m building a **full stack web application for a client**
