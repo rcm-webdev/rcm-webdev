@@ -5,7 +5,7 @@
 I am a full-stack software engineer specializing in architecting scalable solutions, mentoring teams, and exploring emerging technologies.  
 
 ## Current Status: 
-- ⚒️ I’m building a **landing page for a local client**
+- ⚒️ I’m building a **landing page for a local auto detailing business**
 - ⚡ I’m contributing knowledge to an **online community**
 - 📰 I'm reading about **Deno.js**
 - 🤖 I'm interested in **generative ai**
