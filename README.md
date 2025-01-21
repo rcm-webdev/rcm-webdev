@@ -2,7 +2,7 @@
 
 **` Software Engineer`** **` Targeting JavaScript, TypeScript, and Node opportunities`**
 
-I am a full-stack software engineer based in Washington. I am committed to building software that automagically runs around the clock. I am inspired by Naval Ravikant in creating scalable, impactful solutions. 
+I am a full-stack software engineer based in Washington. I am committed to building software that automagically runs around the clock. 
 
 ## Current Status: 
 - ⚒️ I’m building a **inventory management system**
@@ -15,6 +15,8 @@ I am a full-stack software engineer based in Washington. I am committed to build
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-c-murillo/)
  [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/rcmwdev)
+ [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/rcmcodes.bsky.social)
+ 
 
  
 
@@ -53,9 +55,12 @@ I am a full-stack software engineer based in Washington. I am committed to build
 #
 
 <details>
- <summary><h3>🛤️ Roberto's Coding Journey</h3></summary>
+ <summary><h3>How I got started:</h3>
+ 
+ </summary>
  
 
  
 [twitter]: https://twitter.com/rcmwdev
 [linkedin]: https://www.linkedin.com/in/roberto-c-murillo/
+[bluesky]: https://bsky.app/profile/rcmcodes.bsky.social
