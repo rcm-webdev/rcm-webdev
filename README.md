@@ -2,12 +2,12 @@
 
 **` Software Engineer`** **` Targeting JavaScript, TypeScript, and Node opportunities`**
 
-I am a full-stack software engineer specializing in architecting scalable solutions, mentoring teams, and exploring emerging technologies.  
+I am a full-stack software engineer based in Washington. I am committed to building software that automagically runs around the clock. I am inspired by Naval Ravikant in creating scalable, impactful solutions. 
 
 ## Current Status: 
-- ⚒️ I’m building a **landing page for a local auto detailing business**
+- ⚒️ I’m building a **inventory management system**
 - ⚡ I’m contributing knowledge to an **online community**
-- 📰 I'm reading about **Deno.js**
+- 📰 I'm reading about **blockchain technology**
 - 🤖 I'm interested in **generative ai**
 
 <h3 align="left"> 🌐 Connect with me:</h3>
