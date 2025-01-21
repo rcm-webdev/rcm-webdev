@@ -46,6 +46,11 @@ I am a full-stack software engineer based in Washington. I am committed to build
 
 ### 📂 Latest Projects
 
+| CodeRadar      |
+| ------------- | 
+| ![CodeRadar](https://github.com/rcm-webdev/coin-radar/blob/main/public/assets/coinradar.gif) |
+|[Code](https://github.com/rcm-webdev/coin-radar) |
+
 
 #
 
