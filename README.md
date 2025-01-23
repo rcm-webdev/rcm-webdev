@@ -8,7 +8,7 @@ I am a full-stack software engineer based in Washington. I am committed to build
 - ⚒️ I’m building a **inventory management system**
 - ⚡ I’m contributing knowledge to an **online community**
 - 📰 I'm reading about **blockchain technology**
-- 🤖 I'm interested in **generative ai**
+- 🤖 I'm interested in **generative AI**
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
