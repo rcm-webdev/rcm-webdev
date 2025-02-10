@@ -5,9 +5,9 @@
 I am a full-stack software engineer based in Washington. I am committed to building software that automagically runs around the clock. 
 
 ## Current Status: 
-- ⚒️ I’m building a **inventory management system**
+- ⚒️ I’m building a **full stack inventory management system**
 - ⚡ I’m contributing knowledge to an **online community**
-- 📰 I'm reading about **blockchain technology**
+- 📰 I'm reading about **machine learning**
 - 🤖 I'm interested in **generative AI**
 
 <h3 align="left"> 🌐 Connect with me:</h3>
