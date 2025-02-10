@@ -1,4 +1,4 @@
-![Banner](https://github.com/rcm-webdev/rcm-webdev/raw/main/banner-2.webp)
+![Banner](https://github.com/rcm-webdev/rcm-webdev/raw/main/github-banner.webp)
 
 **` Software Engineer`** **` Targeting JavaScript, TypeScript, and Node opportunities`**
 
