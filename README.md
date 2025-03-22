@@ -49,7 +49,7 @@ I am a full-stack software engineer based in Washington. I am committed to build
 | Transpose Rx | CodeRadar |
 | ------------- | ------------- | 
 | ![Transpose Rx](https://github.com/rcm-webdev/transposerx/raw/main/public/transposerx.gif)| ![CodeRadar](https://github.com/rcm-webdev/coin-radar/blob/main/public/assets/coinradar.gif) 
-| [Live](https://transposerx.netlify.app/)|[Code](https://github.com/rcm-webdev/coin-radar) 
+| [Live](https://transposerx.netlify.app/) / [Code](https://github.com/rcm-webdev/transposerx) |[Code](https://github.com/rcm-webdev/coin-radar) 
 
 
 #
