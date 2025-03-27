@@ -2,7 +2,7 @@
 
 **` Software Engineer`** **` Targeting JavaScript, TypeScript, and Node opportunities`**
 
-I am a full-stack software engineer based in Washington, building software that runs automagically. 
+I am a full-stack software engineer based in Washington, building software that runs automagically. 🪄
 
 ## Current Status: 
 - ⚒️ I’m building a **full stack inventory management system**
