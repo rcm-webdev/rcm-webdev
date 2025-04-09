@@ -5,10 +5,10 @@
 I am a full-stack software engineer based in Washington, building software that runs automagically. ✨
 
 ## Current Status: 
-- ⚒️ I’m building a **full stack inventory management system**
-- ⚡ I’m contributing knowledge to an **online community**
-- 📰 I'm reading about **machine learning**
-- 🤖 I'm interested in **generative AI**
+- ⚒️ Building a **full stack learning management system**
+- ⚡ Being a mentor for an **online community**
+- 📰 Reading about **machine learning**
+- 🤖 Interested in **generative AI**
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
