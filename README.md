@@ -60,9 +60,8 @@ I am a full-stack software engineer based in Washington, building software that 
 #
 
 <details>
- <summary><h3>How I got started:</h3>
- 
- </summary>
+<!--  <summary><h3>How I got started:</h3>
+</summary> -->
  
 
  
