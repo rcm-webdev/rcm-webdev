@@ -57,13 +57,6 @@ I am a full-stack software engineer based in Washington, building software that 
 ### ⚡ Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcm-webdev&layout=compact&theme=tokyonight) <br/> <br/> [![GitHub Streak](https://streak-stats.demolab.com/?user=rcm-webdev&theme=tokyonight)](https://git.io/streak-stats)
 
-#
-
-<details>
-<!--  <summary><h3>How I got started:</h3>
-</summary> -->
- 
-
  
 [twitter]: https://twitter.com/rcmwdev
 [linkedin]: https://www.linkedin.com/in/roberto-c-murillo/
