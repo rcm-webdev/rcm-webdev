@@ -22,9 +22,8 @@ I am a full-stack software engineer based in Washington, building software that 
 
 </p>
 
----
 
-## Skills:
+## Skillset:
 
 ### Languages used: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
