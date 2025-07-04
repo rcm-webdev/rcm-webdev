@@ -41,7 +41,7 @@
     
 </p>
 </p>
-
+<br>
 <h2 align="center"> Projects: </h2>
 
 | Transpose Rx | CodeRadar |
