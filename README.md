@@ -1,4 +1,4 @@
-![Banner](https://github.com/rcm-webdev/rcm-webdev/raw/main/ascii-banner.jpg)
+![Banner](https://github.com/rcm-webdev/rcm-webdev/raw/main/ascii-name.png)
 
 
  
