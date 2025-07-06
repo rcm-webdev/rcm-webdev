@@ -46,10 +46,10 @@
 <br>
 <h2 align="center"> Projects: </h2>
 
-| Transpose Rx | CodeRadar |
+| Transpose Rx | Speech Vault |
 | ------------- | ------------- | 
-| ![Transpose Rx](https://github.com/rcm-webdev/transposerx/raw/main/public/transposerx.gif)| ![CodeRadar](https://github.com/rcm-webdev/coin-radar/blob/main/public/assets/coinradar.gif) 
-| [Live](https://transposerx.netlify.app/) / [Code](https://github.com/rcm-webdev/transposerx) |[Code](https://github.com/rcm-webdev/coin-radar) 
+| ![Transpose Rx](https://github.com/rcm-webdev/transposerx/raw/main/public/transposerx.gif)| ![Speech Vault](https://github.com/rcm-webdev/speechvault/blob/main/speech-vault2.png) 
+| <p align="center"> **[Live Site](https://transposerx.netlify.app/) / [Github Code](https://github.com/rcm-webdev/transposerx)** </p> | <p align="center"> **[Github Code](https://github.com/rcm-webdev/speechvault)** </p>
 
 
 <div align="center">
