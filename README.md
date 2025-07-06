@@ -48,7 +48,7 @@
 
 | Transpose Rx | Speech Vault |
 | ------------- | ------------- | 
-| ![Transpose Rx](https://github.com/rcm-webdev/transposerx/raw/main/public/transposerx.gif)| ![Speech Vault](https://github.com/rcm-webdev/speechvault/blob/main/speech-vault2.png) 
+| ![Transpose Rx](https://github.com/rcm-webdev/transposerx/raw/main/public/transposerx.gif)| ![Speech Vault](https://github.com/rcm-webdev/speechvault/blob/main/frontend/public/speechvault.png) 
 | <p align="center"> **[Live Site](https://transposerx.netlify.app/) / [Github Code](https://github.com/rcm-webdev/transposerx)** </p> | <p align="center"> **[Github Code](https://github.com/rcm-webdev/speechvault)** </p>
 
 |SignCast|
