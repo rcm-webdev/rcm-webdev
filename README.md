@@ -53,7 +53,7 @@
 
 |SignCast|
 |------------- |
-|![SignCast](https://github.com/rcm-webdev/signcast/blob/main/frontend/public/sign-cast.png)|
+|![SignCast](https://github.com/rcm-webdev/signcast/blob/main/frontend/public/signcast.png?raw=true)|
 |<p align="center">**[Github Code](https://github.com/rcm-webdev/signcast?tab=readme-ov-file)**</p>|
 
 
