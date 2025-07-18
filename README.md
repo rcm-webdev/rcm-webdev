@@ -4,7 +4,7 @@
  
 <div align="center"> 
 
- **` Full Stack Software Engineer`** and **`Exploring Machine Learning and Automation `** <br> **`100devs community member`** 
+ **` Full Stack Software Engineer`** who enjoys automation and use AI tooling. <br> **`100devs community member`** 
 </div>
 
 
