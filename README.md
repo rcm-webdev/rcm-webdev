@@ -4,7 +4,7 @@
  
 <div align="center"> 
 
- **` Full Stack Software Engineer`**. <br> **`100devs community member`** 
+ **` Full Stack Software Engineer`** <br> **`100devs community member`** 
 </div>
 
 
