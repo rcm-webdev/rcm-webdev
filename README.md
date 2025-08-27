@@ -9,20 +9,6 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/rcmwdev" target="_blank">
-   <img alt="Twitter Follow" src="https://img.shields.io/badge/follow_@rcmwdev-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-  <br>
-   
-  </a>
-  <a href="https://bsky.app/profile/rcmcodes.bsky.social">
- <img alt="Bluesky Follow" src="https://img.shields.io/badge/follow_@rcmcodes-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white">
-  </a>
-  <br/>
-
-  <a href="https://www.linkedin.com/in/roberto-c-murillo/">
-   <img alt="Linkedin Connection" src="https://img.shields.io/badge/connect_on_linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <br>
 
  <h2 align="center">
   Current tech stack: 
