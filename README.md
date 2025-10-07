@@ -28,6 +28,15 @@
     <img src="https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=jsonwebtokens&logoColor=black"/>
     
 </p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Vue-1B1D24?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4">
+    <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxt&logoColor=#00DC82">
+    
+    
+</p>
 </p>
 <br>
 <h2 align="center"> Projects: </h2>
