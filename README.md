@@ -43,15 +43,11 @@
 <br>
 <h2 align="center"> Projects: </h2>
 
-| Transpose Rx | Speech Vault |
-| ------------- | ------------- | 
+| Transpose Rx | 
+| ------------- | 
 | ![Transpose Rx](https://github.com/rcm-webdev/transposerx/raw/main/public/transposerx.gif)| ![Speech Vault](https://github.com/rcm-webdev/speechvault/blob/main/frontend/public/speechvault.png) 
-| <p align="center"> **[Live Site](https://transposerx.netlify.app/) / [Github Code](https://github.com/rcm-webdev/transposerx)** </p> | <p align="center"> **[Github Code](https://github.com/rcm-webdev/speechvault)** </p>
+| <p align="center"> **[Live Site](https://transposerx.netlify.app/) / [Github Code](https://github.com/rcm-webdev/transposerx)** </p> | 
 
-|SignCast|
-|------------- |
-|![SignCast](https://github.com/rcm-webdev/signcast/blob/main/frontend/public/signcast.png?raw=true)|
-|<p align="center">**[Github Code](https://github.com/rcm-webdev/signcast?tab=readme-ov-file)**</p>|
 
 
 <div align="center">
