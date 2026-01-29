@@ -4,7 +4,7 @@
  
 <div align="center"> 
 
- **`AI-first engineering\AI Builder`** <br> **`100devs community member`** <br> **`Open-Source Society Member`** 
+ **`AI-first engineering\AI-Builder`** <br> **`100devs community member`** <br> **`Open-Source`** 
 </div>
 
 
