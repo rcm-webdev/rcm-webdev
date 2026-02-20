@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/C sharp-000000?style=for-the-badge&logo=sharp&logoColor=99CC00">
-    <!-- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/> -->
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
 <p align="center">
