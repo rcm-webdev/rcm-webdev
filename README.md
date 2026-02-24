@@ -4,7 +4,7 @@
  
 <div align="center"> 
 
- **`AI-first engineering\AI-Builder`** <br> **`100devs community member`** <br> **`Open-Source`** 
+ **`AI-first engineering\AI-Builder`** <br> **`Pixel Art Enthusiast`** 
 </div>
 
 
@@ -51,7 +51,7 @@
 </p>
 </p>
 <br>
-<h2 align="center"> Projects: </h2>
+<h2 align="center"> Projects / Demos: </h2>
 
 | Transpose Rx | 
 | ------------- | 
