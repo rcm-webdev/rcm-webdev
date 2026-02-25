@@ -57,15 +57,8 @@
 [![Vega](https://raw.githubusercontent.com/rcm-webdev/vega-autonomous-ai-agent/main/public/vega-scientist.jpg)](https://github.com/rcm-webdev/vega-autonomous-ai-agent)
 
 
-
-<div align="center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcm-webdev&layout=compact&theme=tokyonight) 
- 
-</div>
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rcm-webdev&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rcm-webdev&theme=highcontrast)](https://git.io/streak-stats)
  
 </div>
