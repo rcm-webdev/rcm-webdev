@@ -4,7 +4,7 @@
  
 <div align="center"> 
 
- **`AI-first engineering\AI-Builder`** <br> **`Pixel Art Enthusiast`** 
+ **`| AI-Native Product Builder + Engineer | 0 -> 1 AI Products | `** <br> **`Pixel Art Enthusiast`** 
 </div>
 
 
