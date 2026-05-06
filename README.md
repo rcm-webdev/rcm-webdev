@@ -4,8 +4,8 @@
  
 <div align="center"> 
 
- **`| AI-Native Product Builder + Engineer | 0 -> 1 AI Products | `** <br> **`Pixel Art Enthusiast`** 
-</div>
+ **`| Software Engineer | HealthTech Builder | `** 
+ div>
 
 
 <p align="center">
