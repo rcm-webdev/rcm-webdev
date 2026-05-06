@@ -11,7 +11,7 @@
 <p align="center">
 
  <h2 align="center">
-  Current tech stack: 
+  Technologies I use to build products: 
  </h2>
   
   <p align="center">
@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3DD08A">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white">
     
 </p>
 </p>
