@@ -55,8 +55,7 @@
 <h2 align="center"> Projects / Demos: </h2>
 
 [![Axiom](https://github.com/rcm-webdev/axiom-md/blob/main/public/axiom-md.jpg)](https://github.com/rcm-webdev/axiom-md)
-[![Nem0](https://raw.githubusercontent.com/rcm-webdev/nem-0/main/public/nem-0.jpg)](https://github.com/rcm-webdev/nem-0)
-[![Vega](https://raw.githubusercontent.com/rcm-webdev/vega-autonomous-ai-agent/main/public/vega-scientist.jpg)](https://github.com/rcm-webdev/vega-autonomous-ai-agent)
+[![Auris](https://github.com/rcm-webdev/auris/blob/main/public/auris.jpg)](https://github.com/rcm-webdev/auris)
 
 
 <div align="center">
