@@ -57,7 +57,7 @@
 [![TransposeRx](https://github.com/rcm-webdev/transposerx/blob/main/apps/client/public/secu.jpg)](https://github.com/rcm-webdev/transposerx/)
 [![Kit Tracker](https://github.com/rcm-webdev/KitTracker/blob/main/apps/client/public/kittracker.jpg)](https://github.com/rcm-webdev/kittracker/)
 [![Axiom](https://github.com/rcm-webdev/axiom-md/blob/main/public/axiom-md.jpg)](https://github.com/rcm-webdev/axiom-md)
-[![Auris](https://github.com/rcm-webdev/auris/blob/main/public/auris.jpg)](https://github.com/rcm-webdev/auris)
+<!--[![Auris](https://github.com/rcm-webdev/auris/blob/main/public/auris.jpg)](https://github.com/rcm-webdev/auris) -->
 
 
 <div align="center">
