@@ -4,7 +4,7 @@
  
 <div align="center"> 
 
- **`| Software Engineer | HealthTech Builder | `** 
+ **`| Software Engineer | HealthTech Builder | Business Intelligence Engineer`** 
  </div>
 
 
